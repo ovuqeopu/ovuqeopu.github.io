@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ovuqeopu.github.io/QZH/sitemap_index.txt
+Sitemap: https://ovuqeopu.github.io/Qav/sitemap_index.txt
+Sitemap: https://ovuqeopu.github.io/SXn/sitemap_index.txt
+Sitemap: https://ovuqeopu.github.io/hub/sitemap_index.txt
